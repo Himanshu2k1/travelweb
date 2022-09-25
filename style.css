@@ -110,10 +110,10 @@ h1,h2,h3{
     position: relative;
 }
 
-/* .nav{
+.nav{
     padding: 1rem;
     border: 2px solid white;
-} */
+} 
 
 .nav .logo{
     float: left;
