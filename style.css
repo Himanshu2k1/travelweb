@@ -51,8 +51,7 @@ h1,h2,h3{
 
 
 .container{
-    max-width: 1200px;
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -125,6 +124,7 @@ h1,h2,h3{
 } 
 
 .nav .logo{
+    padding-left:1vw;
     float: left;
 }
 
